@@ -1,0 +1,30 @@
+.jumbotron {
+	background-color: transparent;
+}
+
+.home .jumbotron {
+	background-image: url('../imgs/fast-moving.jpg');
+	color: #fff;
+	text-shadow: 2px 0px 3px rgba(52, 52, 52, 1);
+}
+
+#su-modal .form-control,
+#li-modal .form-control {
+	margin-bottom: 15px;
+}
+
+#su-modal .help-block {
+	margin: 0 auto;
+	padding: 20px 10px;
+	width: 400px;
+}
+
+.home #plans {
+	margin-bottom: 140px;
+}
+
+/*
+.pricing-back .col-md-4 {
+	background-color: #eee;
+}
+*/
